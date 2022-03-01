@@ -1,0 +1,1437 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and true relation of the whole transaction of the Company of Vintners, the farmers, and co-adventurers as to the farmes of 40 s. per tun, and wine licenses, and the medium.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 77 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03390</idno>
+            <idno type="STC">Wing F2336</idno>
+            <idno type="STC">ESTC R177324</idno>
+            <idno type="EEBO-CITATION">51617654</idno>
+            <idno type="OCLC">ocm 51617654</idno>
+            <idno type="VID">175235</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03390)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175235)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2723:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and true relation of the whole transaction of the Company of Vintners, the farmers, and co-adventurers as to the farmes of 40 s. per tun, and wine licenses, and the medium.</title>
+               </titleStmt>
+               <extent>40, [10] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>[2] pages feature ms. copies of vintners' petitions.</note>
+                  <note>Reproduction of the original in the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wine industry --  England --  Early works to 1800.</term>
+               <term>Vintners --  England --  London --  Early works to 1800.</term>
+               <term>Tariff on wine --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="relation">
+            <pb facs="tcp:175235:1"/>
+            <pb facs="tcp:175235:1" rendition="simple:additions"/>
+            <pb facs="tcp:175235:2"/>
+            <pb facs="tcp:175235:2"/>
+            <pb facs="tcp:175235:3" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:175235:3"/>
+            <head>A full and true Relation of the whole Tranſactions of the Company of Vintners, the Farmers, and Co<g ref="char:EOLhyphen"/>adventurers, as to the Farmes of 40 <hi>s. per</hi> Tun, and Wine Licenſes, and the <hi>Medium.</hi>
+            </head>
+            <div type="section">
+               <p>
+                  <seg rend="decorInit">O</seg>N the ſixth of <hi>November,</hi> 1637, at a general meeting of all Retailers of Wines in <hi>London, Weſtminſter,</hi> and the Confines thereof at Vintners Hall, the generality made choice of Alderman <hi>Abel,</hi> then Maſter of their Company, <hi>Edward Kynaſton, Ralph More</hi> Wardens, <hi>Rowland Wilſon, Thomas Hutchinſon, William Bowyer</hi> Eſ<g ref="char:EOLhyphen"/>qui<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, <hi>Robert Shaw,</hi> and <hi>Joſeph Graves, George Hulbert, Michael Gardiner, Thomas Langton,</hi> and <hi>John Wilcoxe,</hi> or any three or more of them,
+<pb n="2" facs="tcp:175235:4"/> (whereof the Maſter and the chief Warden to to be one) to deal for the generality touching an advancement of price upon retail of Wines ſup<g ref="char:EOLhyphen"/>preſſing the Coopers, a general pardon, and divers other benefits to be granted by his Majeſty to the retailing Vintners: But the Committee was not to conclude any thing therein without the con<g ref="char:EOLhyphen"/>ſent of the generality of Retailers, as by the Order made that day at Vintners Hall may ap<g ref="char:EOLhyphen"/>peare.</p>
+               <p>The Committee proceeded therein accord<g ref="char:EOLhyphen"/>ingly by and with the advice, conſent, and dire<g ref="char:EOLhyphen"/>ction of the generality from time to time, as ap<g ref="char:EOLhyphen"/>pears by their own Orders at Vintners Hall, which are here faithfully ſet down, as they were truly tranſcribed, and compared with their Book of Orders there.</p>
+               <p>
+                  <hi>The Orders are in theſe words,</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ſe were the <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ſiſtants be<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s the gene<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>y.</note> 22 <hi>Die</hi> Novemb. 1637. Maſter <hi>Abel</hi> Alderman, Maſter: Maſter <hi>Kinaſton,</hi> Maſter <hi>More,</hi> Maſter <hi>Courtman,</hi> Wardens, Maſter <hi>Bowyer,</hi> Maſter <hi>Davis,</hi> Maſter <hi>Robert Shaw,</hi> Maſter <hi>Wilde,</hi> Maſter <hi>Bonomy,</hi> Maſter <hi>King,</hi> Maſter <hi>Dar<g ref="char:EOLhyphen"/>ling,</hi> Maſter <hi>Leechland,</hi> Maſter <hi>Hamond,</hi> Ma<g ref="char:EOLhyphen"/>ſter <hi>Griffith,</hi> Maſter <hi>Hulbert,</hi> maſter <hi>Field,</hi> ma<g ref="char:EOLhyphen"/>ſter <hi>Gardiner.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>neral <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rt.</note> At this Court all the vintners and others Retai<g ref="char:EOLhyphen"/>lers of wine in <hi>London, Weſtminſter,</hi> and the parts
+<pb n="3" facs="tcp:175235:4"/> thereunto adjoyning were warned to meet toge<g ref="char:EOLhyphen"/>ther at the Vintners Hall in <hi>London,</hi> the greater number whereof there appeared, and upon report made to them by the Committees formerly cho<g ref="char:EOLhyphen"/>ſen by them, what was demanded for his Maje<g ref="char:EOLhyphen"/>ſty. It was aſſented unto by the generality, that the Committees might yeeld to pay forty ſhil<g ref="char:EOLhyphen"/>lings upon a tun, provided that they might be aſ<g ref="char:EOLhyphen"/>ſured to have from his <hi>Majeſty</hi> the immunities and benefits propoſed, the which their aſſents was ſhewed and expreſſed by holding up of their hands, and they to report their proceedings to the Court from time to time.</p>
+               <p>The immunities and benefits were then put in<g ref="char:EOLhyphen"/>to writing by the Clarke of Vintners Hall, and were comprehended in eleven heads or Articles, and intituled: <hi>The humble deſires of the Retaylers of Wines</hi> and were Preſented together with a petition to his Maieſty a true Copy of both which here followeth.</p>
+               <pb n="4" facs="tcp:175235:5"/>
+               <floatingText xml:lang="eng" type="petition">
+                  <body>
+                     <head>The Petition of the retailing Vint<g ref="char:EOLhyphen"/>ners of <hi>London,</hi> and their Propoſiti<g ref="char:EOLhyphen"/>ons and Demands contrived and made amongſt themſelves at their Hall, in <hi>November</hi> 1637. Whereby it may appeare who projected the penny a Quart on Wines.</head>
+                     <head>To the Kings moſt Excellent Majeſtie.</head>
+                     <head>The humble Petition of your Maje<g ref="char:EOLhyphen"/>jeſties Loyall Subjects, the Vintners and Retailers of Wines, Freemen of the City of <hi>London.</hi>
+                     </head>
+                     <opener>Moſt humbly ſheweth,</opener>
+                     <p>THat whereas the Company of Vintners of <hi>London,</hi> hath anciently in times paſt, been a flouriſhing Company, and hath had and
+<pb n="5" facs="tcp:175235:5"/> enjoyed ſundry ancient Priviledges and Immuni<g ref="char:EOLhyphen"/>ties, whereby the Freemen of that Company have in the exerciſe of their Calling, become men of eminent place and authority in this your City of <hi>London.</hi>
+                     </p>
+                     <p>May it pleaſe your moſt excellent Majeſty to be informed, that of late times, the Wine Coopers have ſo invaded the priviledges, and intruded into the Trade and Profeſſion of the Vintners, as that the ſaid ancient Company is much decayed there<g ref="char:EOLhyphen"/>by and impoveriſhed, and like further to decline, unleſſe by your Princely Clemencie the ſame be reſtored and upheld. And therefore your humble Petitioners, proſtrating themſelves at the feet of your ſacred Majeſty, do moſt humbly pray your Majeſty wil be graciouſly pleaſed to reſtore them to their ancient freedom in the uſe of their pro<g ref="char:EOLhyphen"/>feſſion. And withal (for the better enabling them to do your Majeſty ſervice, and go on cheerfully in their Callings) and to grant unto them ſuch fur<g ref="char:EOLhyphen"/>ther additions of your Princely Favours and Im<g ref="char:EOLhyphen"/>munities, as are conteined and expreſſed in the Schedule annexed, and to pardon all their Delin<g ref="char:EOLhyphen"/>quencies and tranſgreſſions paſt.</p>
+                     <p>And in an humble and thankful acknowledg<g ref="char:EOLhyphen"/>ment of your Majeſties ſo ample and royal favours extended to them, your humble Suppliants will with a free and unanimous conſent pay to your Majeſties uſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, and your royal Succeſſors the ſum of 2 <hi>l.</hi> for every Tun of Wine, which they ſhal here<g ref="char:EOLhyphen"/>after retail or vend within this your Kingdom, and as in duty bound wil ever pray.</p>
+                  </body>
+               </floatingText>
+               <pb n="6" facs="tcp:175235:6"/>
+               <list>
+                  <head>The humble deſires of the Re<g ref="char:EOLhyphen"/>tailors of Wines.</head>
+                  <item>THat all Merchants and others Importers of Wines into the Ports of <hi>London,</hi> may be en<g ref="char:EOLhyphen"/>joyned to ſell their Wines to none but Retai<g ref="char:EOLhyphen"/>lors of Wines, being Vinters, to the end your Majeſty may have 2 l. on the Tun, upon all the Wines that ſhall be imported, whereby the Merchants and others may not underſel the Vintners, and deprive your Ma<g ref="char:EOLhyphen"/>jesty of the ſaid 2 l. on the Tun aforeſaid, and the ſaid Vintners be hindred both in their whole Sale and Retail.</item>
+                  <item>2 That no Retailors of Wines, and other Buyers of Wines, within any place or places of this Realme, be permitted to buy any Wines at any Port or places within this Realm, unleſſe the ſaid Retailors or Buy<g ref="char:EOLhyphen"/>ers, do pay the aforeſaid 2 l. on the Tun to his Majeſty, otherwiſe it will come to paſſe that all Retailors and other Buyers of Wines will furniſh themſelves, to ſave the 2 l. a Tun, and neglect the free Vintners of <hi>London.</hi>
+                  </item>
+                  <item>3 That all Coopers and others may be reſtrained from intruding into the Vintners Trade, buying or ſelling Wines either in groſſe or by retail for time to come.</item>
+                  <item>4 That all free Vintners may dreſſe and ſell Vi<g ref="char:EOLhyphen"/>ctuals, Beer, Sugar and Tobacco in their Houſes in <hi>London,</hi> or elſwhere as anciently they have done heretofore, they buying their Tobacco of any licenſed to ſell it.</item>
+                  <pb n="7" facs="tcp:175235:6"/>
+                  <item>5 That there may be a repayment by way of de<g ref="char:EOLhyphen"/>falcation of the 6000 <hi>li.</hi> which the Vintners payed into your Majeſties receit of the Exchequer, for a great part whereof they pay Intereſt at this day.</item>
+                  <item>6 That the granting of Licenſes to retayle Wines within <hi>London</hi> and three miles compaſſe, may be hereafter and hence forth reſtrained, and none to be hereafter granted, And alſo that the free Vintners may have power according to their ancient Charter to draw wines freely in the four principall Roads, and all Cities and Port Towns within this Realm.</item>
+                  <item>7. That his Majeſty will be graciouſly pleaſed to grant to all free Vintners and retaylors of Wines his his moſt gracious, generall, and free pardon for all delinquencies and tranſgreſſions whatſoever by them committed in the exerciſe of their Trade, either by whole ſale or retail to this day, And alſo a confirma<g ref="char:EOLhyphen"/>tion of their ancient Charter with liberty to adven<g ref="char:EOLhyphen"/>ture for Wine of all ſorts, with ſuch additions as it ſhall pleaſe your Majesty to conferre on them, and to be annexed to their Charter.</item>
+                  <item>8 That all Retailors of Wines within <hi>London</hi> and three miles thereof, may be reduced to be Free<g ref="char:EOLhyphen"/>men of the Company of Vintners, for the better go<g ref="char:EOLhyphen"/>vernment of their trade in general.</item>
+                  <item>9 That your Majeſtie will be graciouſly pleaſed to grant to the ſaid free Vintners licence to ſell at 1 d. a quart, over and above the prices yeerly ſet by the Lords of the Council; whereby they may be enabled to pay to your Majeſty 2 l. upon the Tun.</item>
+                  <item>10 That high Country Wines in regard of their extraordinary prices and ſmall Cask, may be ſold
+<pb n="8" facs="tcp:175235:7"/> at 1 d. a quart, above the rate allowed for ordinary French Wines.</item>
+                  <item>11 That if his Majeſty hereafter ſhall be graci<g ref="char:EOLhyphen"/>ouſly pleaſed to let to farm the ſaid 2 l. per Tun; Then that the Company of Vintners may be admitted to farm the ſame before any other.</item>
+               </list>
+               <p>Whereby, and by the ſaid Order of the 22 of <hi>November,</hi> it appears that the demand of liberty to raiſe 1 d. 2 d. a quart, and the offer 40 s. a tun, proceeded originally from the generality of the Vintners, and as it was their voluntary offer and project, ſo every Article of their deſires is for the benefit of each drawing Vintner, the Clark of the Company put the ſaid Articles into writing in the Common Hall, as the ſeveral drawing Vint<g ref="char:EOLhyphen"/>ners directed and dictated to him.</p>
+               <p>The next meeting at Vintners Hall was on the 27 of <hi>November,</hi> 1637. The Order thus.</p>
+               <p>
+                  <note place="margin">Theſe the Aſ<g ref="char:EOLhyphen"/>ſiſtants this day.</note> 27 <hi>Die Novemb.</hi> 1637, <hi>Reg. Car.</hi> 13. <hi>William Abel</hi> Alderman Maſter, Maſter <hi>More,</hi> Maſter <hi>Courtman,</hi> Wardens, Maſter <hi>Wilſon,</hi> Maſter <hi>Bowyer,</hi> Maſter <hi>Shaw,</hi> Maſter <hi>Bludworth,</hi> Ma<g ref="char:EOLhyphen"/>ſter <hi>Bonamy,</hi> Maſter <hi>King,</hi> Maſter <hi>Robert Lee,</hi> Maſter <hi>Griffith,</hi> Maſter <hi>Hulbert,</hi> Maſter <hi>Baily,</hi> Ma<g ref="char:EOLhyphen"/>ſter <hi>Gardiner.</hi>
+               </p>
+               <p>At this Court upon relation made by our Ma<g ref="char:EOLhyphen"/>ſter of the paſſage of the buſineſſe referred to him and other Committees, touching the payment of 40 s. on a tun to his Majeſtie for Wines retailed, and upon reading of the Petition prepared to be delivered to his Majeſty with the ſeveral reaſons
+<pb n="9" facs="tcp:175235:7"/> thereto annexed. It is ordered that the maſter to<g ref="char:EOLhyphen"/>gether with the former Committees appointed by the court ſhall proceed in that buſineſſe as they ſhall from time to time find expedient, acquainting this court with their proceedings.</p>
+               <p>By theſe orders it is manifeſt, that this project was the worke of the generall company of drawing vintners, for they choſe the Committee, they take account of the Committee, and they order and di<g ref="char:EOLhyphen"/>rect the Committee to proceed, acquainting them with their proceedings. In all which Alderman <hi>Abel</hi> was but one of the Committee choſen and employed by his Company for their publick ſer<g ref="char:EOLhyphen"/>vice; and neither he nor any particular man, but the drawing vintners had, or could have any pri<g ref="char:EOLhyphen"/>vate intereſt or end. For Alderman <hi>Abel</hi> had gi<g ref="char:EOLhyphen"/>ven over his trade long before.</p>
+               <p>The next Order was the ſeventh of <hi>February,</hi> in theſe words, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Septimo die Februarii,</hi> 1637, <hi>Reg. Car.</hi> 13.</p>
+               <p>
+                  <note place="margin">Theſe were Aſſiſtants b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ſides the ge<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>rality.</note> Maſter <hi>Abel</hi> Alderman Maſter, Maſter <hi>Kinaſton,</hi> Maſter <hi>More,</hi> maſter <hi>Courtman,</hi> Wardens, Maſter <hi>Wilſon,</hi> Maſter <hi>Hutchinſon,</hi> maſter <hi>Bowyer,</hi> Ma<g ref="char:EOLhyphen"/>ſter <hi>Davies,</hi> Maſter <hi>Robert Shaw,</hi> Maſter <hi>Blud<g ref="char:EOLhyphen"/>worth,</hi> maſter <hi>Bonamy,</hi> Maſter <hi>King,</hi> Maſter <hi>Dar<g ref="char:EOLhyphen"/>ling,</hi> maſter <hi>Conradus,</hi> Maſter <hi>Griffith,</hi> Maſter <hi>Hul<g ref="char:EOLhyphen"/>bert,</hi> Maſter <hi>Field,</hi> Maſter <hi>Aſhwell,</hi> maſter <hi>Gardi<g ref="char:EOLhyphen"/>ner.</hi>
+               </p>
+               <p>
+                  <note place="margin">A general Court.</note> This day all the Retailors of Wines inhabi<g ref="char:EOLhyphen"/>tants within the City of <hi>London,</hi> and adjacent
+<pb n="10" facs="tcp:175235:8"/> places being warned to appear at this Court, the greater number of them appeared: To whom the Maſter related what had been further propounded in that buſineſſe now in agitation with his Majeſty, and amongſt other things, that his Majeſty was pleaſed to accept of forty ſhillings a tun for wines retailed, and likewiſe for the farm thereof thirty thouſand pound a yeer, but his majeſty would not contract with the whole generality, but with ſome particular men of ability, to whom his ma<g ref="char:EOLhyphen"/>jeſty may reſort for the performance of that which ſhall be contracted for, and thereupon the ſaid maſter propounded to the generality.</p>
+               <p>Firſt, whether they did hold and confirm their former reſolution to pay forty ſhillings a tun for all Wines to be retailed, and</p>
+               <p>Secondly, whether they would accept of the Farm thereof at thirty thouſand pounds a yeer: To both which Propoſitions with an unanimous conſent, they agreed and declared their conſents, by holding up their hands.</p>
+               <p>And likewiſe it was alſo conſidered for furthe<g ref="char:EOLhyphen"/>rance of the proceeding in the ſaid buſineſſe, that ten perſons ſhould be named, who ſhould contract with his majeſty, in ſuch manner as learn<g ref="char:EOLhyphen"/>ed Council ſhould adviſe, and for that purpoſe the generality did nominate <hi>William Abel</hi> Alder<g ref="char:EOLhyphen"/>man, <hi>Rowland Wilſon, Thomas Hutchinſon, William Bowyer,</hi> Eſquires, <hi>Robert Shaw, Edward Kynaston, Ralph More; Jacob Bonamy, George Hulbert</hi> E<g ref="char:EOLhyphen"/>ſquire, and <hi>Michael Gardiner</hi> Citizens, and vint<g ref="char:EOLhyphen"/>ners of <hi>London;</hi> with this, that if any of the ſaid
+<pb n="11" facs="tcp:175235:8"/> ten ſhould refuſe to take upon him to be one of the ſaid Contractors, that then another ſhould be choſen in his ſteed, and thoſe ten to contract with his Majeſty, and to ſtand engaged for payment of the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arm rent at the times, and in the manner to be agreed upon, and it was thought neceſſary and agreed, that the ſaid ten ſhould take unto them ſo many as ſhould make up thirty, who ſhould under write, and bring in every man a thou<g ref="char:EOLhyphen"/>ſand pound, for ſo much thereof, as ſhould be thought expedient from time to time to disburſe, and that every of them ſhould ratably according to their ſummes disburſed receive profit, if the bu<g ref="char:EOLhyphen"/>ſineſſe proved profitable, and likewiſe to beare their proportionable ſhares of charges and loſſe, if the buſineſſe ſhall not happen to produce profit, but loſſe.</p>
+               <p>By this order it is to be obſerved, firſt, that as this project had his birth at Vintners Hall, being there contrived by the generality of drawing Vintners, ſo it was ſtill proſecuted by the gene<g ref="char:EOLhyphen"/>rality, for the greateſt number of them appeared at this Court.</p>
+               <p>Secondly, That the generality confirmed it with an unanimous conſent, not one contradicting it.</p>
+               <p>Thirdly, That for furtherance of the buſineſſe the generality nominated Alderman <hi>Abel</hi> then Maſter, and nine more Vintners, who ſhould con<g ref="char:EOLhyphen"/>tract with his Majeſty on the Companies behalf, becauſe his Majeſty would not contract with the generality.</p>
+               <pb n="12" facs="tcp:175235:9"/>
+               <p>Which ſhewes with what cheerfulneſſe and ear<g ref="char:EOLhyphen"/>neſt deſire they proſecuted the effecting of the pro<g ref="char:EOLhyphen"/>ject; and this convinceth thoſe that pretend that the Vintners were perſwaded, or threatned by Al<g ref="char:EOLhyphen"/>derman <hi>Abel,</hi> the Alderman did not, nor needed to perſwade them, for they nominated and inga<g ref="char:EOLhyphen"/>ged him. And had not this and nine other Orders of their Hall clearly manifeſted with what earneſt deſires, and unanimous aſſents they contrived and proſecuted it, they would have out-faced all truth. But againſt their own orders what can be replied.</p>
+               <p>And none doe teſtifie any words of perſwaſion or threats, but thoſe that are parties and delin<g ref="char:EOLhyphen"/>quents in the higheſt degree.</p>
+               <list>
+                  <item>1 Parties to the originall contriving the Pro<g ref="char:EOLhyphen"/>ject.</item>
+                  <item>2 Parties to the Indenture of creation of the project, and</item>
+                  <item>3 Parties that took benefit by the project, ſo they all ſpeak in excuſe of themſelves.</item>
+               </list>
+               <p>At another general Court, 21 <hi>Martii,</hi> 1637. and a Court of Aſſiſtance held 29 of <hi>March,</hi> 1638, they all ratified and confirmed their aſſents for<g ref="char:EOLhyphen"/>merly given to the ſaid project, not any one gain<g ref="char:EOLhyphen"/>ſaying it.</p>
+               <p>On the nineteenth of <hi>May,</hi> 1638, they appoint<g ref="char:EOLhyphen"/>ed who ſhould ſeal the quadupartite Indenture (which is the Deed of Creation of the Project) the Order is in theſe words.</p>
+               <p>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> were the <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ants <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t that <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </note> 19 <hi>May</hi> 1638. <hi>Reg. Car.</hi> 14. <hi>William Abel</hi> Al<g ref="char:EOLhyphen"/>derman, Maſter, maſter <hi>Kynaſton</hi> Warden, maſter <hi>Wilſon,</hi> Maſter <hi>Robert Shaw,</hi> maſter <hi>Bludworth,</hi> ma<g ref="char:EOLhyphen"/>ſter
+<pb n="13" facs="tcp:175235:9"/> 
+                  <hi>Bonamy,</hi> maſter <hi>Darling,</hi> maſter <hi>Leechland,</hi> maſter <hi>Conradus,</hi> maſter <hi>Griffith,</hi> maſter <hi>Hulbert,</hi> maſter <hi>Aſhwell,</hi> maſter <hi>Gardiner.</hi>
+               </p>
+               <p>At this Court the names of ſuch as are appoint<g ref="char:EOLhyphen"/>ed to ſeal to the Indenture, between his majeſty, the French and Spaniſh merchants, and the Cor<g ref="char:EOLhyphen"/>poration of the Vintners were here appointed and declared, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>
+                     <hi>William Abel</hi> Alderman.</item>
+                  <item>
+                     <hi>Edward Kinaſton.</hi>
+                  </item>
+                  <item>
+                     <hi>Ralph More.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Shaw.</hi>
+                  </item>
+                  <item>
+                     <hi>Jacob Bonamy.</hi>
+                  </item>
+                  <item>
+                     <hi>Ralph King.</hi>
+                  </item>
+                  <item>
+                     <hi>George Gopſel.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Barns.</hi>
+                  </item>
+                  <item>
+                     <hi>Cordwell Hamond.</hi>
+                  </item>
+                  <item>
+                     <hi>George Shaw.</hi>
+                  </item>
+                  <item>
+                     <hi>George Hulbert.</hi>
+                  </item>
+                  <item>
+                     <hi>Anthony Baily.</hi>
+                  </item>
+                  <item>
+                     <hi>John Birch.</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Aſhwell.</hi>
+                  </item>
+                  <item>
+                     <hi>Michael Gardiner.</hi>
+                  </item>
+                  <item>
+                     <hi>Matthew Forſter.</hi>
+                  </item>
+                  <item>
+                     <hi>John Gregory.</hi>
+                  </item>
+                  <item>
+                     <hi>William Hancock.</hi>
+                  </item>
+                  <item>
+                     <hi>William Kimpſter.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Simcots.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Dudley.</hi>
+                  </item>
+                  <item>
+                     <hi>George Stanley.</hi>
+                  </item>
+                  <item>
+                     <hi>John Wilcox.</hi>
+                  </item>
+                  <item>
+                     <hi>Mark Hilleſley.</hi>
+                  </item>
+                  <item>
+                     <hi>William Bellamy.</hi>
+                  </item>
+                  <item>
+                     <hi>Ralph Hutchinſon.</hi>
+                  </item>
+                  <item>
+                     <hi>Joſeph Rogers.</hi>
+                  </item>
+               </list>
+               <p>All theſe (except the Alderman then maſter, are drawing vintners, wherby it appears by whom, and for whoſe ends this project was ſet on foot, and proſecuted.</p>
+               <p>25 <hi>May</hi> 1638. The ſeveral perſons here un<g ref="char:EOLhyphen"/>dernamed, brought and paid at vintners Hall the ſeveral ſummes here under mentioned, as Farmers and Adventurers of Sharers, and the
+<pb n="14" facs="tcp:175235:10"/> perſons and ſummes hereunder ſet down, are en<g ref="char:EOLhyphen"/>tred in the Hall Book, excepting two or three of them, who afterwards brought in their ſaid ſums of a 100 li. a piece to maſter <hi>Travers</hi> the Under-treaſurer, to the ſaid Farmers, and their names and ſummes are entred in his Book.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label">li.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>William Abel</hi> Alder.</cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ralph King.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Thomas Dudley.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>George Stanley.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Mark Hilleſley.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Thomas Simcots.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>William Conradus.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>William Leechland.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>Cap. <hi>Matthew Forſter.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Gregory.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>George Hulbert.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Jacob Bonamy.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Thomas Darling.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Joſeph Rogers.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>William Dickens.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Cordwell Hamond.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Edward Darling.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>George Griffith.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Thomas Wilcoxe.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Robert Lee.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ralph More.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Edward Kinaſton.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rowland Wilſon.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Michael Gardiner.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ralf Hutchinſon.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Andrew Courtman</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Matthew Terry.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Robert Shaw.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Richard Davis.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Francis Aſhwell.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Henry Crone.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>Cap. <hi>Henry Sanders</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Thomas Gough.</hi>
+                        </cell>
+                        <cell rows="2">100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Chriſt. Metcalf</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Cap. <hi>Langham.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Henry Lee.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>William Bowyer</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Roger Kilvert.</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Note the ſaid ſunmes were not brought or paid to Alderman <hi>Abel,</hi> but at Uintners Hall, whereby it ſtill ſhews this to be the work of the Company.</p>
+               <p>After all this, at two ſeverall aſſemblies of the Company in their Hall it was ordered, that the ſeale of the Compnny ſhould be put to the ſaid In<g ref="char:EOLhyphen"/>denture of creation of the project.</p>
+               <pb n="15" facs="tcp:175235:10"/>
+               <p>The Orders follow in theſe words.</p>
+               <p>
+                  <note place="margin">Theſe the <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ſiſtants this day.</note> 16 <hi>Junii</hi> 1638. <hi>William Abel,</hi> Alderman Ma<g ref="char:EOLhyphen"/>ſter, Maſter <hi>Kinaſton,</hi> Maſter <hi>More,</hi> Maſter <hi>Court<g ref="char:EOLhyphen"/>man,</hi> Wardens, Maſter <hi>Wilſon,</hi> Maſter <hi>Bowyer,</hi> Maſter <hi>Davis,</hi> Maſter <hi>Shaw,</hi> Maſter <hi>Hart,</hi> Maſter <hi>Bludworth,</hi> Maſter <hi>Clegate</hi> Maſter <hi>Darling,</hi> Maſter <hi>Hamond,</hi> Maſter <hi>Conradus,</hi> Maſter <hi>Griffith,</hi> Maſter <hi>Baily,</hi> Maſter <hi>Aſhwell,</hi> Maſter <hi>Gardiner.</hi>
+               </p>
+               <p>Whereas for the ſetling of the Farme of forty ſhillings to be paid to his majeſty upon every tun of wine to be imported, and ſold in this King<g ref="char:EOLhyphen"/>dome, there are Indentures quadrupartite to be paſſed betweene the Kings moſt excellent majeſty on the firſt part; the Corporation of Vintners on the ſecond, the Company of French merchants on the third, and the Spaniſh merchants on the fourth part, which are to be ſealed on the companies be<g ref="char:EOLhyphen"/>halfe, with the common ſeale of this company, which is to be performed at the Kings Aturnies chamber. It is ordered that the common ſeale ſhall be taken forth and delivered to our <hi>maſter,</hi> and he to cauſe the ſame to be put to the ſaid Indentures, and to returne the ſame ſeale to be ſafely kept in the treaſury.</p>
+               <p>
+                  <hi>Secundo die August.</hi> 1638. <hi>Reg. Car.</hi> 14.</p>
+               <p>
+                  <note place="margin">Theſe were th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Aſſiſtants preſent be<g ref="char:EOLhyphen"/>ſides the gene<g ref="char:EOLunhyphen"/>rality.</note> Maſter <hi>John Hart</hi> Maſter, Maſter <hi>Griffith,</hi> Ma<g ref="char:EOLhyphen"/>ſter <hi>Alexander Child,</hi> Wardens, Maſter Alderman <hi>Abel,</hi> Maſter <hi>Wilſon,</hi> Maſter <hi>Davis,</hi> Maſter <hi>Robert Shaw,</hi> maſter <hi>Kinaſton,</hi> Maſter <hi>Bludworth,</hi> Maſter
+<pb n="16" facs="tcp:175235:11"/> 
+                  <hi>Bonomy,</hi> Maſter <hi>King,</hi> Maſter <hi>Darling,</hi> Maſter <hi>Leechland,</hi> Maſter <hi>Robert Lee,</hi> maſter <hi>Courtman,</hi> Maſter <hi>Conradus,</hi> maſter <hi>George Shaw,</hi> maſter <hi>Gardiner,</hi> M. <hi>Hulbert,</hi> maſter <hi>Birch,</hi> Maſter <hi>Foſter.</hi>
+               </p>
+               <p> 
+                  <note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>neral <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rt.</note> The generality here aſſembled gave conſent that maſter Alderman <hi>Abel</hi> ſhould have the Com<g ref="char:EOLhyphen"/>panies common Seal delivered unto him, and that he ſhould therewith ſeal the Companies part of the quadrupartite Indenture made with his majeſty and others, and when that is done to return the ſame to be ſafely kept in the Treaſury, together with the Companies part of the ſaid Indenture. And accordingly the Seal was ſent by maſter <hi>Hart,</hi> then maſter of the Company, to Alder<g ref="char:EOLhyphen"/>man <hi>Abels</hi> houſe, by the hands of their Beadle; and maſter <hi>Griffith,</hi> one of the Contractors then Warden of the Company carried it to maſter At<g ref="char:EOLhyphen"/>turnies, and ſealed the Indenture with it, the Al<g ref="char:EOLhyphen"/>derman being then out of town.</p>
+               <p>What can be more plain, then that this was the work of the whole Company.</p>
+               <p>The Companies part of the Indenture muſt be kept with their common Seal in their Treaſury, for ſo was it appointed by this laſt Order of the General Court.</p>
+               <p>The Project was contrived by the generality at a general Court, as by the Order of the 22 of <hi>November.</hi> It was confirmed by the generality with unanimous conſent, not one contradicting it at a general Court 7 <hi>Feb.</hi> 1637. and then the ge<g ref="char:EOLhyphen"/>nerality nominated and appointed ten of their Company to contract with his majeſty on behalf of the whole Company.</p>
+               <pb n="17" facs="tcp:175235:11"/>
+               <p>And their common Seale was ordered to be put to the Indenture of creation of the project at a ge<g ref="char:EOLhyphen"/>nerall court, when Alderman <hi>Abel</hi> was not Ma<g ref="char:EOLhyphen"/>ſter. And beſides out of Towne.</p>
+               <p>So all the material and principal paſſages of the creation of this Project were acted in their Hall at general Courts, and by the generality.</p>
+               <p>And it cannot be denied, but that a greater number of drawing Uintners appeared at thoſe general Courts, then hath been known at any Court of former times.</p>
+               <p>And as it appears by the Orders of thoſe ge<g ref="char:EOLhyphen"/>neral Courts, that Alderman <hi>Abel</hi> was ingaged in the buſineſſe by the generality (as he was maſter of their Company) ſo it appears alſo by the ſame Orders, that neither he, nor any others were ſingle actors of any thing in the creation or contrivement of the Project, but that it was the very Project of the generality of Retailing vintners, for the pro<g ref="char:EOLhyphen"/>fit of themſelves only</p>
+               <p>
+                  <note place="margin">The 20th Novemb<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note> For upon reading the Petition of <hi>James Maſon</hi> and <hi>Robert Quarterman</hi> and others, preferred a<g ref="char:EOLhyphen"/>gainſt Alderman <hi>Abel</hi> and the reſt of the Farmers, upon the 20th day of <hi>November</hi> at their Hall. The then Maſter and Wardens of the Company of the vintners, with the reſt of the Court of Aſſi<g ref="char:EOLhyphen"/>ſtance, made a Declaration, and entred it in their Hall Book, wherein are conteined theſe very words.</p>
+               <p>And maſter Alderman <hi>Abel</hi> and divers other the Contractors never ſith-hence dealt in groſſe, nor benefited themſelves by the advance upon the
+<pb n="18" facs="tcp:175235:12"/> retail of Wines: ſo as he hath in all this been but a perſon even entreated into the buſineſſe for the Company, and no whit for himſelf, nor hath o<g ref="char:EOLhyphen"/>therwiſe, or in other manner, or for other cauſe acted any thing at all in or concerning this buſines.</p>
+            </div>
+            <div type="section">
+               <head>For the Medium.</head>
+               <p>It was firſt occaſioned by the drawing Vint<g ref="char:EOLhyphen"/>ners, for in the firſt Article o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their project, they de<g ref="char:EOLhyphen"/>manded that all Merchants, may be enjoyned to ſell their wines to none but the retayling Vintners.</p>
+               <p>The Merchants oppoſed it, and ſhewed that in caſe they ſhould be tied up from ſelling their wines to any but vintners, it would be their undoing, and the overthrow of their trades, unleſſe the Vint<g ref="char:EOLhyphen"/>ners would oblige themſelves to take off their wines at the prizes <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et by the Lords, for otherwiſe the Vintners would beat down the Merchants pri<g ref="char:EOLhyphen"/>ces, and leave their wines on their hands.</p>
+               <p>Whereupon after ſeverall debates, touching that particular betweene the Merchants and Uint<g ref="char:EOLhyphen"/>ners, it was at a generall Court held at Uintners Hall the 21, of <hi>March,</hi> 1637. agreed and conſented to by the generality of Retailers: That they would yearely take from the Merchants at the ſet prices, ſuch a quantity of wine as was by them yearely im<g ref="char:EOLhyphen"/>ported according to a Medium, to be taken of their laſt ſeven yeares importation.</p>
+               <p>And at another generall Court, the 29 off the ſame <hi>March,</hi> they againe conſented to take off the Merchants wines, as by the order following ap<g ref="char:EOLhyphen"/>peares.</p>
+               <pb n="19" facs="tcp:175235:12"/>
+               <p>29 <hi>Martii</hi> 1638.</p>
+               <p>
+                  <note place="margin">Theſe we<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Aſſiſtants <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ſides the <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>rality.</note> 
+                  <hi>William Abel</hi> Alderman, Maſter, maſter <hi>Kina<g ref="char:EOLhyphen"/>ſton,</hi> maſter <hi>More,</hi> maſter <hi>Courtman,</hi> Wardens, ma<g ref="char:EOLhyphen"/>ſter <hi>Wilſon,</hi> maſter <hi>Hutchinſon,</hi> maſter <hi>Bowyer,</hi> maſter <hi>Davies,</hi> maſter <hi>Robert Shaw,</hi> maſter <hi>Blud<g ref="char:EOLhyphen"/>worth,</hi> Maſter <hi>King,</hi> Maſter <hi>Clegate,</hi> maſter <hi>Dar<g ref="char:EOLhyphen"/>ling,</hi> Maſter <hi>Hamond,</hi> Maſter <hi>Conradus,</hi> maſter <hi>Griffith,</hi> Maſter <hi>George Shaw,</hi> maſter <hi>Hulbert,</hi> Maſter <hi>Field,</hi> Maſter <hi>Baily,</hi> Maſter <hi>Aſhwell.</hi>
+               </p>
+               <p>
+                  <note place="margin">A genera<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Court.</note> This day upon a general ſummons of all retailers of wines given by the Officers of the Hall for their apperance here, a very ample number of them came, to whom the <hi>Master</hi> againe declared what had paſſed betwixt himſelf and ſome other committees of this Company, and the <hi>Medium</hi> of wines by them required to be taken off, and the <hi>Maſter</hi> againe pro<g ref="char:EOLhyphen"/>pounded to the ſaid retailers whether they were willing for accomodation of thoſe <hi>Engliſh</hi> Mer<g ref="char:EOLhyphen"/>chants to take their wines being good and mer<g ref="char:EOLhyphen"/>chantable, as in former times, in ſuch a moderate way as is lately propounded, and hereafter to be agreed upon, not exceeding the <hi>Medium;</hi> No warres, act of State, contagion, great ſickneſſe, or mortality hindering the vent of Wines. To which they declared and ſignified their conſents, as alſo that the farm of 40 ſhillings a Tun, ſhall be accep<g ref="char:EOLhyphen"/>ted at the rent of 30000 li. <hi>per annum,</hi> and the granting of Licenſes for Taverns at 7000 li. <hi>per annum.</hi>
+               </p>
+               <pb n="20" facs="tcp:175235:13"/>
+               <p>And the next Court day being the 19 of <hi>May</hi> 1638. the Company appointed a certaine number of retailing Vintners to ſeale the quadrupartite in<g ref="char:EOLhyphen"/>denture on behalfe of the whole company which, indenture was ſeverall times openly read and rati<g ref="char:EOLhyphen"/>fied in their Hall at generall meetings, and in that Indenture the vintners covenant expreſly to take off from the Merchants 4000 tunne <hi>Spaniſh,</hi> and 5000 tunne <hi>French</hi> wines; (being the <hi>Medium</hi> a<g ref="char:EOLhyphen"/>greed on by the merchants and vintners) and in conſideration thereof the merchants covenanted and obliged themſelves to ſell to no coopers, nor countrey vintners.</p>
+               <p>Thus was the <hi>Medium</hi> begot by the <hi>London</hi> vintners and for their benefit, who by this meanes monopolized the retailing of wines both in city and countrey, and were the ſole Authors of the <hi>Medium;</hi> and afterwards to make ſure work, they got an order from the Council-board that thoſe merchants that ſhould breake their contract by ſel<g ref="char:EOLhyphen"/>ling wines to coopers or countrey vintners ſhould not have their wines taken off.</p>
+               <p>The vintners having thus tied up the merchants from ſelling to any but them, would not take off their wines, as by contract they were bound, but furniſhed themſelves from Strangers, and left thoſe native merchants wines on their hands to their great loſſe and almoſt undoing.</p>
+               <p>Thereupon, thoſe merchants were driven to petition the Lords of the council, and to ſet forth the unfaithfull and fraudulent dealing of the vint<g ref="char:EOLhyphen"/>ners, and upon ſeveral hearings of what could
+<pb n="21" facs="tcp:175235:13"/> be ſaid on both ſides, their Lordſhips ordered the vintners to take off from thoſe merchants who had beene ſo much wronged a ſmall quantity, farre ſhort of that which the vintners by their owne contract were bound to take, and were wines which a ſelect committee of vintners (<hi>Michael Gardiner</hi> being one) had choſen and marked out for good and merchantable wines.</p>
+               <p>True it is, in regard of the great quantity of wines imported that yeare, the vintners might have bought thoſe wines ſomewhat cheaper, but they retailed them all at the higheſt prices, and loſt not, but gained by them, and in caſe any one peece of thoſe wines failed on their hands, it was through the Uintners owne wilfulneſſe, in that they would not husband them, rack them from their lees, and take them from the Merchants in due time as by their contract they were bound and ought to have done.</p>
+               <p>In the great and numerous company of Vint<g ref="char:EOLhyphen"/>ners, there are about 40. whereof ſome would not pay the Merchant for their <hi>Medium</hi> wines, others would not pay the 40. ſhillings a tunne to the King, and ſome of the refuſers to pay for their <hi>Medium</hi> wines were upon complaint of the Mer<g ref="char:EOLhyphen"/>chants, owners of thoſe wines committed to the Fleet by the Lords; and others that would not pay the 40. ſhillings a tunne, after long forbear<g ref="char:EOLhyphen"/>ance, were ſued.</p>
+               <pb n="22" facs="tcp:175235:14"/>
+               <p>Theſe forty being indebted to his Majeſty in great ſummes for the forty ſhillings a tun, petitio<g ref="char:EOLhyphen"/>ned the Honourable Houſe of Commons againſt Alderman <hi>Abel, Ralph More, George Grifſith, Row<g ref="char:EOLhyphen"/>land Wilſon,</hi> and the reſt of the <hi>Farmers,</hi> and by their Petition they ſet forth, that they were com<g ref="char:EOLhyphen"/>pelled to take <hi>medium</hi> Wines to their loſs, and in<g ref="char:EOLhyphen"/>forced to pay fotry s. upon a tun all Wines, both which are untrue, for they had voluntarily obliged themſelves by their ſaid contract to perform both, upon more then valuable conſiderations as is be<g ref="char:EOLhyphen"/>fore declared, and upon thoſe and the like falſe pre<g ref="char:EOLhyphen"/>tence, that they oppoſed the project, they would exempt themſelves from making reſtitution to the Common-wealth of the great ſummes which they have gained by the project.</p>
+               <p>To theſe its anſwered, that they amongſt the reſt were preſent at the contriving of, and gave their conſents to the project at vintners Hall, and againe, though they refuſed to pay the 40 s. <hi>per</hi> Tun to his Majeſty yet they have the conſcience to take the 1 <hi>d.</hi> and 2 <hi>d.</hi> a quart, and enjoyed all other benefits and advantages by the project, and yet more, ſome of them had the faces to take the 3 <hi>d.</hi> a quart, which was half a Tun above the ſet prices on <hi>Malligoes</hi> and <hi>Sheries,</hi> as was proved before the Committees of Parliament.</p>
+               <p>Thus you may ſee how theſe men had the con<g ref="char:EOLhyphen"/>ſciences to take on all wines 4 l. on ſome 8 l. on others 12 l. a tunne above the ſet prices (although in the ſet prices there's included a competent gain to them) and to exact all other the advantages by
+<pb n="23" facs="tcp:175235:14"/> the contract, but they will not pay the King 40. ſhillings a tunne, nor take off the Merchants wines as other vintners did, and as they by their contract were bound to doe.</p>
+               <p>Theſe will enjoy all profits, but will endure no loſſe.</p>
+               <p>Are not theſe men more inexcuſable to blame, then the reſt of the vintners, that taking the 1 pen<g ref="char:EOLhyphen"/>ny and 2 pence a quart paid the 40 ſhillings to the King, and performed their contract with the mer<g ref="char:EOLhyphen"/>chants. For the end of theſe mens complaint in Parliament, was to free themſelves from payment of the 40 ſhillings a Tun to the King, on thoſe Wines for which they had taken from the Sub<g ref="char:EOLhyphen"/>ject 4 l. 8 l. and 12 l. a Tun, above the ſet prices.</p>
+               <p>But the truth is, that the Vintners, having recei<g ref="char:EOLhyphen"/>ved a double benefit by this their Project, to wit, pardon for their fore-paſt delinquencies, and in<g ref="char:EOLhyphen"/>creaſe of price on all their Wines, would have e<g ref="char:EOLhyphen"/>ſcaped the juſtice of the high Court of Parliament, and have prevented both puniſhment and reſtitu<g ref="char:EOLhyphen"/>tion by caſting their Project from off themſelves and others, and by conceaſing and denying their moſt unconſcionable benefit, but their own Or<g ref="char:EOLhyphen"/>ders which they ſo long denied, and would ſtill de<g ref="char:EOLhyphen"/>ny, have been ſeveral times proved at the ſeveral Committees, and out of thoſe their own Orders (againſt which no modeſt man would con<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>end.) They have upon ten ſeveral hearings before the ſaid Committees been four times voted by the Committees to be the Contrivers of the Project and Delinquents.</p>
+            </div>
+            <div type="section">
+               <pb n="24" facs="tcp:175235:15"/>
+               <head>For the Licenſes.</head>
+               <p>
+                  <note place="margin">The 22 day of Novemb. 1637 A general Court.</note> At a general Court, <hi>viz.</hi> on the foreſaid 22 day of <hi>November</hi> 1637, when the ſeveral immunities &amp; benefits comprehended in eleven heads or Articles were put in writing at Vintners hall by their Clark, one of the ſaid Articles (<hi>viz.</hi>) the 6th, was, that the granting of Wine Licenſes in and about <hi>Lon<g ref="char:EOLhyphen"/>don</hi> be reſtrained, and that the free Vintners may draw Wines in the four principal Roads, and in all Cities and Market Towns. But the ſaid Licenſes being before that granted by the late King <hi>Charles,</hi> to the Lord <hi>Goring,</hi> and he in actual poſſeſſion thereof.</p>
+               <p>
+                  <note place="margin">The 7th. of Februar. 1637. A general Court.</note> The ſaid generality as in the aforeſaid Order of the 29th. of <hi>March</hi> 1638. did conſent and agree, That the granting of Licenſes ſhould be farmed at 7000 l. <hi>per annum,</hi> and whereas by the aforeſaid Order of the ſeventh of <hi>February</hi> 1637, the ge<g ref="char:EOLhyphen"/>nerality nominated ten Contractors to contract with his Majeſty for the duty of 40 s. <hi>per</hi> tun, at 30000 l. <hi>per annum,</hi> who ſhould take to them ſo many as ſhould make up thirty, who ſhould go 1000 li. a man Adventure at this general Court (<hi>viz.</hi>) on the ſaid 29th. of <hi>March</hi> 1638. <note place="margin">The 29th. of March, 1638. A general Court.</note> They order, that the ſaid Contractors ſhall take to them ſo many as ſhould under-write 1000 l. a man, as ſhall make up with the ſaid Contractors 37 ſhares, and accordingly the ſaid Contractors did take to them ſo many as did make up their ſhares, who did under-write their names at Vintners Hall, to go a
+<pb n="25" facs="tcp:175235:15"/> 1000 l. adventure in the ſaid farms, and brought into ſtock a 100 l. a man, which was paid into the hands of maſter <hi>Traveis</hi> Under-treaſurer to the Farmers.</p>
+               <p>Thus the retailing vintners aſſumes the whole benefit of all the aforementioned benefits and im<g ref="char:EOLhyphen"/>munities to themſelves, excepting the farming of the 40 s. <hi>per</hi> tun, and Wine Licenſes, which by the preceding Orders, moſt plainly appears. They turned over to the ſaid Contractors and Coadven<g ref="char:EOLhyphen"/>turers, who accordingly did contract with the ſaid late King <hi>Charles,</hi> and the ſaid Lord <hi>Go<g ref="char:EOLhyphen"/>ring</hi> for the ſaid farms, and did rent to themſelves an houſe for a meeting place, and did take to them<g ref="char:EOLhyphen"/>ſelves a Treaſurer an Aſſiſtant and Under-trea<g ref="char:EOLhyphen"/>ſurer, Clarks and Accountants, and Waiters, and ſeveral other Officers, and did allot and pay to them by their Under-treaſurer their ſeveral yeerly ſtipends, and did ſit and make Orders which were firſt drawn up by Maſter <hi>Griffith,</hi> one of the ſaid Farmers, and afterwards engroſſe in a fair Book by Maſter <hi>Winton</hi> their Clark, and did receive the be<g ref="char:EOLhyphen"/>nefit and profits ariſing by the ſaid Farms, which ſaid Contractors and Coadventurers did take to them ſeveral Sub-adventurers. The names of all which are hereunto annexed with their particular adventures in the ſaid Farms, as they are ſet down under the hand of Maſter <hi>George Griffith,</hi> one of the ſaid Farmers &amp; Aſſiſtant to the Treaſurer, which ſaid Contractors, Coadventurers, and Subadventu<g ref="char:EOLhyphen"/>rers did agree amongſt themſelves, about <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> a thouſand ſix hundred thirty nine, to pur<g ref="char:EOLhyphen"/>chaſe
+<pb n="26" facs="tcp:175235:16"/> of the ſaid Lord <hi>Goring,</hi> his whole intereſt in the ſaid Wine Licenſes, and that each of them ſhould have and beare his ſhare of loſſe or gain in the ſaid purchaſe, according to his ſaid Adventure. And what moneys ſoever ſhould be taken up at In<g ref="char:EOLhyphen"/>tereſt, or brought in by any upon that occaſion ſhould be born and paid by the ſaid Contractors, Co-adventurers and Sub-adventurers, accord<g ref="char:EOLhyphen"/>ing to their ſeveral adventures, as will appear by ſeveral Orders of the Farmers, and a note of Subſcription hereto annexed under thirty of their hands. Which ſaid ſumme of 18000 <hi>li.</hi> was paid to the ſaid Lord <hi>Goring</hi> in manner following, That is to ſay, 9000 <hi>li.</hi> thereof out of the joynt ſtock of the ſaid Contractors, Co-adventurers and Sub-adventurers, and 9000 <hi>li.</hi> more by the order and deſire, and upon the undertaking of the whole number, by moneys taken up at Intereſt by <hi>William Abell</hi> and <hi>Robert Shaw,</hi> together with two or three others, and upon payment of the ſaid 18000 <hi>li.</hi> to the ſaid Lord <hi>Goring,</hi> the ſaid Lord <hi>Goring</hi> did aſ<g ref="char:EOLhyphen"/>ſigne his ſaid intereſt to the ſaid <hi>William Abell</hi> and <hi>Robert Shaw,</hi> and 10 others in truſt for the reſt, &amp;c.</p>
+               <p>Who by vertue of the ſaid Aſſignement, did receive the profi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s thereof, untill <hi>Francis Dickens</hi> their Clerke under pretence of a former Deed to his father <hi>William Dickens</hi> in the year 1643 went to <hi>Oxford,</hi> and carried all the Books of Accounts a way with him.</p>
+               <p>Whereupon the then Committee for the pub<g ref="char:EOLhyphen"/>like revenue, ſequeſtred the Agencie of the ſaid Wine Licenſes with the profits thereof, and put in Agents of their own nomination.</p>
+               <pb n="27" facs="tcp:175235:16"/>
+               <p>And the ſaid Contractors, &amp;c. refuſing to pay their juſt ſhares, and the ſaid Agents (ſince the ſaid ſequeſtration) receiving the Rents and profits ari<g ref="char:EOLhyphen"/>ſing by the ſaid Licenſes.</p>
+               <p>The ſaid <hi>William Abel</hi> and <hi>Robert Shaw</hi> after many tedious and vexatious Suits, and after ſeve<g ref="char:EOLhyphen"/>ral times petitioning and appearing before the ſaid Committee for the revenue for releaſe of the ſaid Sequeſtration, and all without the leaſt redreſſe.</p>
+               <p>The ſaid <hi>William Abel</hi> and <hi>Robert Shaw</hi> have lately preſented their humble Petition to the Ho<g ref="char:EOLhyphen"/>nourable Committee of Parliament for Priſons and Priſoners againſt the ſaid Contractors, &amp;c. and others in that Petition named, which Petition their Honours have bin pleaſed to recommend by their Letter to the honourable Committee of Judges ſitting at Salters Hall, and thereupon the ſaid <hi>Abel</hi> and <hi>Shaw</hi> have applyed themſelves by their Petiti<g ref="char:EOLhyphen"/>on for relief to their Honours, both which Petiti<g ref="char:EOLhyphen"/>ons are here annexed, together with a Petition lately preſented to the Parliament by ſome of the ſaid Contractors, &amp;c. under the names of the Ma<g ref="char:EOLhyphen"/>ſter and Wardens, and Company of vintners of the City of <hi>London,</hi> in which Petition they acknowledg the payment of the ſaid 18000 <hi>l.</hi> for the ſaid purchaſe of the wine Licences, which they ſay in their Petition, they were forced to take up at in<g ref="char:EOLhyphen"/>tereſt, and for a great part thereof ſome of their members have been impriſoned theſe 9 yeers paſt, there are like without redreſs in the premiſes ſtill to continue to their utter ruine; which ſaid petition up<g ref="char:EOLhyphen"/>on the Parliament, referring the examination of
+<pb n="28" facs="tcp:175235:17"/> the Agency for Wine Licenſes to the Committee for inſpection into treaſuries by their Order of the firſt of <hi>August</hi> 1653, The ſaid Maſter and War<g ref="char:EOLhyphen"/>dens, &amp;c. Contractors and Co-adventurers toge<g ref="char:EOLhyphen"/>ther have ſeverall times appeared before the ſaid Committee, and now lately (<hi>viz</hi>) on Tueſday the ſixth of December 1653, with Council owning the contents of their Petition and craving releife there<g ref="char:EOLhyphen"/>upon, as will appear by two ſeveral Orders of the ſaid Committee, hereto annexed.</p>
+               <p>In which petition they acknowledge the Pur<g ref="char:EOLhyphen"/>chaſe, the conſideration of the Purchaſe (<hi>viz</hi>) 18000 <hi>l.</hi> The taking up of the monies at intereſt, and the impriſonment of their members for the ſame and that even to their utter ruine and there never being any other member either of the Com<g ref="char:EOLhyphen"/>pany of vintners (as of the Company) or of the con<g ref="char:EOLhyphen"/>tractors Co-adventurers and Subadventurers (as of them likewiſe) that is or ever was in priſon for any of the ſaid 18000 <hi>l.</hi> other then the ſaid Maſter <hi>Abel</hi> and Maſter <hi>Shaw</hi> and one maſter <hi>Moore</hi> lately im<g ref="char:EOLhyphen"/>priſoned alſo for the ſaid moneyes.</p>
+               <p>The ſaid <hi>Abel</hi> and <hi>Shaw</hi> do humbly conceive, that upon comparing the Companies ſaid Petition preſented to the Committee for inſpection, &amp;c. and the ſaid Committees two Orders, together with three ſeveral Orders of the Farmers here fol<g ref="char:EOLhyphen"/>lowing, and their note likewiſe of ſubſcription un<g ref="char:EOLhyphen"/>der their hands, hereto annexed. That theſe men will moſt juſtly be liable to pay the debts, either as the Company, or as Contractors, &amp;c.</p>
+               <p>
+                  <hi>The Vintners Petition, the Committees Orders, and the Orders of the Farmers here followeth.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <pb n="29" facs="tcp:175235:17"/>
+               <floatingText xml:lang="eng" type="petition">
+                  <body>
+                     <head>To the Supream Authority, the Par<g ref="char:EOLhyphen"/>liament of the Common-wealth of <hi>England.</hi>
+                     </head>
+                     <head>The humble Petition of the Maſter, Wardens, and Company of Vint<g ref="char:EOLhyphen"/>ners of the City of <hi>London.</hi>
+                     </head>
+                     <opener>Shewing,</opener>
+                     <p>THat the granting of Wine Licenſes in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Wales,</hi> were excepted out of the Statutes againſt Monopolies, in the 21th yeer of the late King <hi>James.</hi>
+                     </p>
+                     <p>That the late King <hi>Charles.</hi> the 20th. day of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> in the ſeventh yeer of hise Rign, by his In<g ref="char:EOLhyphen"/>denture under the Great Seal of <hi>England,</hi> did con<g ref="char:EOLhyphen"/>ſtitute <hi>George</hi> Lord <hi>Goring,</hi> and others in truſt for him Agent or Agents for the Wine Licenſes in <hi>England, Wales,</hi> and <hi>Berwick, Devon</hi> and <hi>Cornwall,</hi> and <hi>Exeter</hi> excepted for 21 yeers, from the 20th. of <hi>December</hi> 1630.</p>
+                     <pb n="30" facs="tcp:175235:18"/>
+                     <p>That in the yeer 1638, the ſaid late King, for va<g ref="char:EOLhyphen"/>luable conſideration granted to Sir <hi>Sackvile Crow</hi> Baronet 1600 li, <hi>per annum,</hi> to be iſſuing out of the Rents and ſummes of money to grow payable to him his heirs and ſucceſſours, for or in reſpect of granting Licenſes for ſelling of Wines, amount<g ref="char:EOLhyphen"/>ing then unto 2166 l. 13 s. 4 d. <hi>per annum;</hi> out of which 1600 l. <hi>per annum,</hi> your Petitioners purcha<g ref="char:EOLhyphen"/>ſed 400 l. <hi>per annum,</hi> which coſt them 2400 l. and then there remained to the Crown no more then 566 l. 13 s. 4 d. <hi>per annum.</hi>
+                     </p>
+                     <p>That your Petitioners being beforehand adviſed by learned Council of the legality of the ſaid Lord <hi>Gorings</hi> and his Truſtees intereſt did in the yeere 1639 by ſpecial command of the late King <hi>Charles,</hi> in conſideration of 18000 l. paid to the Lord <hi>Go<g ref="char:EOLhyphen"/>ring,</hi> and of the ſaid 2166 l. 13 s. 4 d. reſerved to the Crown purchaſe the ſaid Agency from him and his ſaid Truſtees.</p>
+                     <p>That one <hi>William Dickens</hi> ſome times Servant to the Lord <hi>Goring,</hi> did mannage the ſaid Agency for the Lord <hi>Goring,</hi> and aftewards for your Petiti<g ref="char:EOLhyphen"/>oners and the ſaid Copartners (ſo long as he liv'd) &amp; after him <hi>Franciss Dickens,</hi> Gent, his ſonne did the like for your Petitioner, and reſpectively Ac<g ref="char:EOLhyphen"/>counted before Auditor <hi>Spackman</hi> in their Names and to their uſes.</p>
+                     <p>That your Petitioner enjoyed the ſaid Agency, and four hundred Pounds <hi>per annum</hi> untill they were interupted by <hi>Francis Dickens</hi> under pretence of a fraudelent Deed who went to <hi>Oxford</hi> in the year 1643: By reaſon whereof the then Committee of the Publick revenues ſequeſtred the ſaid agency,
+<pb n="31" facs="tcp:175235:18"/> and all rents and Profits, &amp;c and put in other A<g ref="char:EOLhyphen"/>gents of their owne nomination, who keepe their Office in <hi>Fleet</hi> ſtreet, and have enjoyed the profits thereof ever ſince. And under pretence of <hi>Francis Dickins</hi> Delinquency. Your Petitiones have ever ſince been kept out of the ſaid Agency. Notwith<g ref="char:EOLhyphen"/>ſtanding they have uſed all the means they could to be reſtored thereunto.</p>
+                     <p>That when the preſent Agents entred upon the ſaid Agency, there was due to your Petitioners for Ar<g ref="char:EOLhyphen"/>rears and Fines 14000 l. or thereabouts, and in an<g ref="char:EOLhyphen"/>nual Rents for Licenſes about 3000 l. <hi>per annum,</hi> beſides the profit and benefit of making and re<g ref="char:EOLhyphen"/>newing of Licenſes. And all arrears and profits, except 566 l. 13 s. 4 d. <hi>per annum</hi> due to the late King, all which was of right to have come into your Petitioners hands, they having really disburſed for the ſame 20400 l. which your Petitioners were forced to take up at intereſt. And for a great part thereof, ſome of their members have been impri<g ref="char:EOLhyphen"/>ſoned theſe nine yeers paſt, and there are like with<g ref="char:EOLhyphen"/>out redreſſe in the premiſes, ſtill to continue to their utter ruine.</p>
+                     <p>
+                        <hi>Your Petitioners therefore humbly pray your Honours will be pleaſed to commiſerate their diſtreſſed estate, and ſpeedily to take ſtrict examination how, and in what manner the preſent Agents have demeaned and do demean themſelves in the ſaid Agency, and when, and to whom, and how much money they have anſwered to the Common-wealth, and in
+<pb n="32" facs="tcp:175235:19"/> what condition the Agency now ſtands, where<g ref="char:EOLhyphen"/>by your Petitioners doubt not but the Intereſt of the Common-wealth will be much advan<g ref="char:EOLhyphen"/>ced, and your Petitioners alſo receive ſome competent ſatisfaction for the great ſummes of money ſo as afore by them disburſed; The rather for that, beſides the ſummes before men<g ref="char:EOLhyphen"/>tioned, They have lent to the uſe of the Com<g ref="char:EOLhyphen"/>mon-wealth at leaſt 12000 l. for which they pay Intereſt to this day:</hi>
+                     </p>
+                     <closer>And your Petitioners ſhall ever pray, &amp;c.
+<signed>
+                           <list>
+                              <item>
+                                 <hi>George Griffith,</hi> Maſter.</item>
+                              <item>
+                                 <list>
+                                    <item>
+                                       <hi>Henry Croone</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Edw. Fauconer</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Richard Maijor</hi>
+                                    </item>
+                                 </list> Wardens</item>
+                              <item>
+                                 <hi>Joſeph Rogers.</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Benſon.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb n="33" facs="tcp:175235:19"/>
+               <floatingText xml:lang="eng" type="order">
+                  <body>
+                     <head>At the Committee of Parliament for Inſpecting the Treaſuries, and re<g ref="char:EOLhyphen"/>gulating Officers and Salleries.</head>
+                     <p>
+                        <note place="margin">
+                           <hi>Nove.</hi> 2<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> 
+                           <hi>Dickins</hi> 
+                           <gap reason="illegible" resp="#OXF" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> his Siſt<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                        </note> WHereas, upon reading of the Petition of <hi>William Dickins, Anne, Elizabeth, To<g ref="char:EOLhyphen"/>mazin,</hi> and <hi>Mary,</hi> his ſiſters, being the younger Children of Mr. <hi>William Dickins,</hi> their late Father deceaſed, wherein they alledge that the ſaid <hi>William Dickins</hi> having an Intereſt in the pro<g ref="char:EOLhyphen"/>fits of a Patent made from the late King unto the Lord <hi>Goring</hi> and others for compounding for, and granting Licenſes to ſell wine by retail throughout <hi>England</hi> and <hi>Wales</hi> (<hi>Devon</hi> and <hi>Cornwall</hi> excepted) did by his laſt Will, whereby he made <hi>Francis</hi> his Son, his Excecutor, bequeath unto the Petitioners ſeverall ſummes of money, amounting in all to three thouſand nine hundred pounds to be raiſed out of the yearly Revenue of the ſaid Patent, out of which the Petitioners aſſert, they have not yet received any thing towards their ſaid portions for that the profits of the ſaid office were in <hi>May,</hi> one thouſand ſix hundred forty four, ſequeſtred for the Delinquency of <hi>Francis Dickins,</hi> Executor of the
+<pb n="34" facs="tcp:175235:20"/> ſaid <hi>William,</hi> though he was onely Intereſſed in the ſaid Revenue, as an Executor and Teſtementary Truſtee, for which Cauſes they prayed ſatisfaction of their Portions out of the arrears of the ſaid pro<g ref="char:EOLhyphen"/>fits of the ſaid Patent. This Committee upon the whole matter, finding themſelves uncapable to de<g ref="char:EOLhyphen"/>termine any thing; as to the relief of the Petition<g ref="char:EOLhyphen"/>ers, untill the preſent Commiſſioners and Agents for Wine Licenſes, and alſo the Maſter and Com<g ref="char:EOLhyphen"/>pany of Vintners <hi>London,</hi> who claim ſeverall In<g ref="char:EOLhyphen"/>tereſts in and to the office of Agency and granting of Wine Licenſes be heard, do therefore Order that the preſent Commiſſioners and Agents for Wine Licenſes, as alſo the Maſter and Warden of the Company of Vintners; and likewiſe Maſter <hi>Cozens,</hi> late Clerke to the Committee for the Re<g ref="char:EOLhyphen"/>venue, together with the Petitioners, do attend this Committee in the Inner Court of Wards, on <hi>Tueſday,</hi> the twenty ninth day of this inſtant <hi>No<g ref="char:EOLhyphen"/>vember,</hi> by two of the clock in the afternoon, to offer and manifeſt what they can unto this Com<g ref="char:EOLhyphen"/>mitte, relating to each mans reſpective Intereſts, and thereupon this Committee will declare their <gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> make ſuch Order the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ein as ſhall be <gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </p>
+                  </body>
+               </floatingText>
+               <pb n="35" facs="tcp:175235:20"/>
+               <floatingText xml:lang="eng" type="order">
+                  <body>
+                     <head>At the Committee of Parliament for Inſpecting the Treaſuries, and regula<g ref="char:EOLhyphen"/>ting Officers and Salaries.</head>
+                     <p>
+                        <note place="margin">
+                           <hi>Decemb. <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> Dickins</hi> Vintne<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> 
+                           <hi>
+                              <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>
+                              <g ref="char:EOLunhyphen"/>don.</hi>
+                        </note> WHereas vpon reading of the Petition of <hi>William Dickens, Anne, Elizabeth, Tho<g ref="char:EOLhyphen"/>mazin,</hi> and <hi>Mary Dickens,</hi> his ſiſters. It was ordered the two and twentieth day of <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> laſt, that the matter of the ſaid Petition ſhould be taken into conſideration the twenty ninth day of the ſame moneth, and that the Maſter and Com<g ref="char:EOLhyphen"/>pany of Vintners <hi>London,</hi> who make claim to the ſame thing, as the Petitioners do together with the preſent Commiſſioners and Agents for Wine Licenſes ſhould then attend this Committee, to ſay what they could in reference to their Intereſt: And accordingly the ſaid parties then appearing, but not being fully prepared to make out their ſeve<g ref="char:EOLhyphen"/>rall Intereſts. Thereupon, by conſent of all parties the Cauſe was put over to be heard this preſent day, and now the parties appearing, and the Pe<g ref="char:EOLhyphen"/>tition of the ſaid <hi>Dickins</hi> being again read, where<g ref="char:EOLhyphen"/>in the Petitioners prayed reliefe and ſatisfaction of the ſumme of 3500 <hi>li.</hi> in Legacies given to them by the Will of Mr. <hi>William Dickins</hi> their late Fa<g ref="char:EOLhyphen"/>ther deceaſed, and appointed to be paid out of the profits and arrears incurred upon the Patent for granting of Wine Licenſes granted by the late King to the Lord <hi>Goring,</hi> the ſaid <hi>William Dickins</hi> and others: and in lieu of a great ſumme paid and
+<pb n="36" facs="tcp:175235:21"/> engaged for the Lord <hi>Goring,</hi> he the ſaid <hi>William Dickins</hi> was to have one thouſand eight hundred thirry three pounds <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ix ſhillings eight pence <hi>per an<g ref="char:EOLhyphen"/>num</hi> out of the profits of the ſaid Farme in caſe it ſhould yield ſo much above the Kings Rent, of which Will <hi>Francis Dickens</hi> eldeſt ſon of the ſaid <hi>William</hi> being Executour, he the ſaid <hi>Francis</hi> though but a Truſtee for the Petitioners, in refe<g ref="char:EOLhyphen"/>rence to ſo much of the benefit of the ſaid patent, as amounted to ſatisfie the ſaid legacies, yet was the ſaid patent and the profits thereof ſequeſtred by the Commiſſioners for compounding at Haber<g ref="char:EOLhyphen"/>daſhers Hall for the Delinquency of the ſaid <hi>Fran<g ref="char:EOLhyphen"/>cis,</hi> inſomuch that the Petitioners have been kept from their legacies, upon which their ſubſiſtance depends as in their portion is alledged upon con<g ref="char:EOLhyphen"/>ſideration whereof and heareing of the Maſter and Company of Vintners London, who alſo claim an intereſt in the profits of the ſaid patent for Wine Licenſes by grant from the Lord <hi>Goring</hi> and o<g ref="char:EOLhyphen"/>thers, wherein the ſaid <hi>William Dickens</hi> joyned, for which the ſaid Maſter and Company of Vint<g ref="char:EOLhyphen"/>ners paid eighteen thouſand pounds in money, and 1800 pounds <hi>per annum,</hi> during the time that they held the ſame: and ſo they affirm that the ar<g ref="char:EOLhyphen"/>rears of Rent and Fines, are of right belonging to them while the terme of yeeres in the ſaid patent remained, which determined in the yeere one thou- ſix hundred fifty one, this Committee upon the whole matter are of opinion that the ſeveral intreſts of the perſons aforeſaid are not compriſed within their power to determine, and doe order that
+<pb n="37" facs="tcp:175235:21"/> Maſter <hi>Mayer</hi> be deſired (as one of the Committee for Compounding at Haberdaſhers Hall) to report to the Parliament with what convenient ſpeed hee can the true ſtate of the cauſe relating to the inte<g ref="char:EOLhyphen"/>reſt of the petitioners, as it ſtands cleered before the ſaid Commiſſioners.</p>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="order">
+                  <body>
+                     <p>18<hi rend="sup">o</hi> 
+                        <hi>Junii,</hi> 1639.</p>
+                     <p>Preſent,
+<list>
+                           <item>Mr. <hi>Alderman Abel</hi>
+                           </item>
+                           <item>Mr. <hi>Kinaſton</hi>
+                           </item>
+                           <item>Mr. <hi>Robert Shawe</hi>
+                           </item>
+                           <item>Mr. <hi>Darling</hi>
+                           </item>
+                           <item>Mr. <hi>Wilcockes</hi>
+                           </item>
+                           <item>Capt. <hi>Forſter</hi>
+                           </item>
+                           <item>Mr. <hi>Rowland Wilſon</hi>
+                           </item>
+                           <item>Mr. <hi>Griffith.</hi>
+                           </item>
+                           <item>Mr. <hi>Leechland</hi>
+                           </item>
+                           <item>Mr. <hi>Courtman</hi>
+                           </item>
+                           <item>Mr. <hi>Simcockes</hi>
+                           </item>
+                           <item>Mr. <hi>William Dickins.</hi>
+                           </item>
+                        </list>
+                     </p>
+                     <p>Moved, that thoſe that ſhall be bound for the 7000 <hi>l. per annum</hi> for the Licenſes for retailing of Wines to the Lord <hi>Goring</hi> be nominated. Maſter <hi>Wilſon</hi> and others moved, That Mr. Treaſurer and the Deputy ſhould treat with the Lord <hi>Goring</hi> about the buying in of 3000 <hi>l per annum,</hi> due to him for thirteen years out of the ſaid Licenſes, and if they could prevail to have it at five and an half years purchaſe, or under, then that the Adventurers in the 30000 <hi>l.</hi> Farme ſhould buy it in, and then whom were bound ſhould run the leſſe danger, and however thoſe bound ſhould be ſaved harmleſſe by Covenant from the other Adventurers <hi>pro Rato</hi> to their particular Adventures.</p>
+                  </body>
+               </floatingText>
+               <pb n="38" facs="tcp:175235:22"/>
+               <floatingText xml:lang="eng" type="order">
+                  <body>
+                     <p>21th. of <hi>June,</hi> 1639.</p>
+                     <p>Preſent,
+<list>
+                           <item>Alderman <hi>Abel</hi>
+                           </item>
+                           <item>Mr. <hi>Darling</hi>
+                           </item>
+                           <item>Mr. <hi>Courtman</hi>
+                           </item>
+                           <item>Mr. <hi>Dickins</hi>
+                           </item>
+                           <item>Mr. <hi>Conradus</hi>
+                           </item>
+                           <item>Mr. <hi>Dudley</hi>
+                           </item>
+                           <item>Mr. <hi>Griffith</hi>
+                           </item>
+                           <item>Mr. <hi>Davis</hi>
+                           </item>
+                           <item>Mr. <hi>Bonnamy</hi>
+                           </item>
+                           <item>Mr. <hi>Robert Lee</hi>
+                           </item>
+                           <item>Mr. <hi>Hilſely</hi>
+                           </item>
+                           <item>Mr. <hi>Cox.</hi>
+                           </item>
+                        </list>
+                     </p>
+                     <p>The laſt Court read and confirmed, and Mr. Treaſurer and Deputy now moved to have a further conſent to treat with the Lord <hi>Goring,</hi> and that they hoped to prevail to obtain his 3000 <hi>l. per annum</hi> at ſix years purchaſe, which comes to 18000 <hi>l.</hi> out of which to abate 1768 <hi>l.</hi> which is found to be received leſſe then 7000 <hi>l.</hi> the laſt year, which the Adventurers are to make good, ſo that there is really to be disburſed onely 16232 l. which is to the adventurers under five and an half years purchaſe, and to obtain his Lordſhips ſecurity to pay the 3000 <hi>l. per annum</hi> during the whole time, if it ſhould happen that the Licenſes ſhould be reſumed by his Majeſty, or by any act of Parliament, or act of State, which, if could be obtained, the Com<g ref="char:EOLhyphen"/>mittee preſent conſented unto, and wiſhed the bargain per<g ref="char:EOLhyphen"/>fected; and thoſe that happen for it any way to be enga<g ref="char:EOLhyphen"/>ged, the totall adventurers to ſave them harmleſſe; and it was conſented unto, that if the Lord <hi>Goring</hi> deſired the 400 <hi>l. per annum,</hi> which the adventurers bought formerly of Sir <hi>Drue Deane's</hi> Executors for 2400 <hi>l.</hi> he ſhould have it, deducting the ſaid 2400 <hi>l.</hi> out of the 18000 <hi>l.</hi> for the ſix years purchaſe, as aforeſaid.</p>
+                  </body>
+               </floatingText>
+               <pb n="39" facs="tcp:175235:22"/>
+               <floatingText xml:lang="eng" type="order">
+                  <body>
+                     <p>The third of <hi>November</hi> 1640, preſent,
+<list>
+                           <item>Maſter Alderman <hi>Abel,</hi>
+                           </item>
+                           <item>Maſter <hi>Leechland,</hi>
+                           </item>
+                           <item>Maſter <hi>Hammond,</hi>
+                           </item>
+                           <item>Maptain <hi>Foſter,</hi>
+                           </item>
+                           <item>Maſter <hi>Griffith,</hi>
+                           </item>
+                           <item>Maſter <hi>Courtman,</hi>
+                           </item>
+                           <item>Maſter <hi>Bowyer.</hi>
+                           </item>
+                        </list>
+                     </p>
+                     <p>At this Court it was ordred, that maſter Alder<g ref="char:EOLhyphen"/>man, maſter <hi>Leechland,</hi> maſter <hi>Edward Dar<g ref="char:EOLhyphen"/>ling,</hi> and maſter <hi>Griffith</hi> ſhould conferre with the Lord <hi>Goring,</hi> to cauſe maſter <hi>Dickens</hi> to ſeal the Deed for the Licenſes, with expedition, that it be no further delayed, which being effected, that it be made over for the ſecurity of maſter Alder<g ref="char:EOLhyphen"/>man and others that are engaged at intereſt, and maſter Alderman, and ſuch others ſo entruſted to re-aſſigne the ſame, when they ſhall be freed of ſuch their engagements.</p>
+                  </body>
+               </floatingText>
+               <p>BY which foreſaid Petition &amp; orders, &amp; the note of ſubſciiption here following, nothing more plain, Then that the Wine Licences were by the ſaid Contractors, &amp;c. ordered to be purchaſed, and moneys likewiſe to be taken up for the ſaid pur<g ref="char:EOLhyphen"/>chaſe, and the parties that ſhall become engaged for the ſaid purchaſe to be re-imburſt: But that the ſaid <hi>Abell</hi> and <hi>Shaw</hi> were and are the parties ſo en<g ref="char:EOLhyphen"/>gaged, and that by their laſt mentioned Order of the third of November 1640, the Deed of the Wine Licedſes be aſſigned over to them, for or to<g ref="char:EOLhyphen"/>wards ſatisfaction of the ſaid monies or debts, ſo by them entered into, which they never did,
+<pb n="40" facs="tcp:175235:23"/> nor ever after (the ſaid Order making) went about to perform, but that the ſaid parties <hi>Abell</hi> and <hi>Shaw</hi> are the very parties impriſoned for the ſaid debts, there being never any other impriſoned for the ſame, except lately the aforeſaid <hi>Moore.</hi>
+               </p>
+               <p>But it doth further appear by the ſaid Petition, and Orders, that the ſaid Contractors, &amp;c. under the names of the Maſter and Wardens, &amp;c. inſtead of giving the leaſt ſatisfaction to the ſaid <hi>Abell</hi> and <hi>Shaw,</hi> they (by their ſaid Petition, and the ſaid Orders) ſet forth their claim and Title in and to the ſaid Wine Licenſes, and endeavour to get them and the profits thereof to themſelves and their own uſes, leaving the ſaid <hi>Abel</hi> and <hi>Shaw</hi> like moſt unconſcionable men (as in their Petition) to conti<g ref="char:EOLhyphen"/>nue in priſon without redreſſe.</p>
+               <p>The two petitions of the ſaid <hi>Abel</hi> and <hi>Shaw,</hi> together with the note of Subſcription, under the hands of the ſaid Copartners, and the names of all the Contractors, &amp;c. as they are ſet down un<g ref="char:EOLhyphen"/>der the hand of Maſter <hi>George Griffith</hi> now Ma<g ref="char:EOLhyphen"/>ſter of the Company, and one of the ſaid Contra<g ref="char:EOLhyphen"/>ctors, here (followeth.) One of which petitions is directed to the Honourable Committee of Par<g ref="char:EOLhyphen"/>liament for priſons and priſoners, and recommen<g ref="char:EOLhyphen"/>ded by their Letter to the Honourable Committee of Judges ſitting at Salters Hall. The other to the ſaid Judges themſelves, and both for relief againſt the ſaid Copartners.</p>
+               <pb facs="tcp:175235:23" rendition="simple:additions"/>
+               <pb facs="tcp:175235:24" rendition="simple:additions"/>
+               <pb facs="tcp:175235:24"/>
+               <floatingText xml:lang="eng" type="petition">
+                  <body>
+                     <head>TO THE HONOURABLE the Committee of <hi>PARLIAMENT</hi> FOR Priſons and Priſoners.</head>
+                     <head>The humble Petition of <hi>William Abel,</hi> and <hi>Robert Shawe,</hi> now Priſoners in the <g ref="char:V">Ʋ</g>pper Bench.</head>
+                     <opener>Sheweth,</opener>
+                     <p>
+                        <seg rend="decorInit">T</seg>Hat the granting of Wine Licenſes in <hi>England</hi> and <hi>Wales</hi> were excepted out of the Statutes of Mono<g ref="char:EOLhyphen"/>polies, in the 21 year of the late King <hi>James.</hi>
+                     </p>
+                     <p>That the late King <hi>Charles</hi> the 20th day of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> in the ſeventh yeer of his Reigne, by In<g ref="char:EOLhyphen"/>denture under the great Seal of <hi>England,</hi> did conſtitute <hi>George</hi> Lord <hi>Goring,</hi> and others in truſt for him Agent or Agents for the Wine Licenſes in <hi>England, Wales</hi> and <hi>Barwick, Devon, Cornwall,</hi> and <hi>Exeter</hi> excepted, for 21 yeers, from the 20th. of <hi>December</hi> 1630.</p>
+                     <p>That in the yeer 1638, the ſaid late King for valuable con<g ref="char:EOLhyphen"/>ſiderations, granted to Sir <hi>Sackvil Crowe</hi> Baronet 1600 <hi>li per annum,</hi> to be iſſuing out of the Rents, and Sums of money pay<g ref="char:EOLhyphen"/>able
+<pb facs="tcp:175235:25"/> to the late King his Heirs, and Succeſſors, for or in re<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pect of granting Licenſes for ſelling of Wines amounting <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hen unto 2166 <hi>li.</hi> 13 <hi>ſhil.</hi> 4. <hi>d. per annum.</hi> So as there remained <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o the Crown only 566 <hi>li.</hi> 13 <hi>ſhil.</hi> 4. <hi>d. per annum,</hi> out of which <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>600 <hi>li. per annum,</hi> your Petitioner <hi>William Abel</hi> with three o<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hers purchaſed 400 <hi>li. per annum,</hi> which coſt 2400 <hi>li.</hi>
+                     </p>
+                     <p>That alſo certain Copartners, being before-hand adviſed <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y learned Counſel of the legality of the ſaid Lord <hi>Gorings</hi> and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>is Truſtees Intereſt, divers of them to the number of thirty, <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>d authorize &amp; give order under their hands to your Petitio<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ers and others to buy the ſaid Intereſt, and did likewiſe under <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>eir hands engage to ſave your Petitioners and the reſt harm<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ſs for what moneys they ſhould take up at intereſt towards- <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e ſaid purchaſe (as by a Copy of the ſaid Subſcription hereto <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nnexed will appear.)</p>
+                     <p>That in purſuance of the ſaid Copartners order, your Peti<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>oners and others did in the yeer 1639, for and in conſidera<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>on of 18000 <hi>li.</hi> paid to the ſaid Lord <hi>Goring,</hi> and of the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aid 2166 <hi>li.</hi> 13 <hi>ſhil.</hi> 4. <hi>d.</hi> reſerved to the Crown, purchaſe the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aid Lord <hi>Gorings</hi> Intereſt and Agency from him and his ſaid Truſtees.</p>
+                     <p>That the ſaid Lord <hi>Goring</hi> did enter into a Statute of 24000 <hi>
+                           <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>i.</hi> to your Petitioners, and ten others of the Copartners nomi<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ated by the reſt, and did likewiſe himſelf, and one <hi>Philip War<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ick</hi> his truſtee Covenant to and with your Petitioners, and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he ſaid ten others likewiſe nominated by the reſt, that they <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hould peaceably and quietly enjoy the ſaid Agencie from themſelves or from any other perſon or perſons claiming in, from, by or under them, or either of them, &amp;c.</p>
+                     <p>That one <hi>William Dickins,</hi> ſometimes ſervant to the Lord <hi>Goring,</hi> did manage the ſaid Agencie for the Lord <hi>Goring,</hi> and afterwards for the ſaid Copartners ſo long as he lived. And after him <hi>Francis Dickins</hi> Gentleman his ſon, did the like for the ſaid Copartners, and reſpectively accompted before Audi<g ref="char:EOLhyphen"/>tour <hi>Spachman</hi> in their names, and to their uſes.</p>
+                     <p>That the ſaid Copartners enjoyed the ſaid Agency, and
+<pb facs="tcp:175235:25"/> 400 <hi>li. per annum,</hi> until they were interrupted by <hi>Francis Dick<g ref="char:EOLhyphen"/>ins,</hi> under pretence of a former Deed from the ſaid Lord <hi>Go<g ref="char:EOLhyphen"/>ring</hi> to the ſaid <hi>William Dickins.</hi> Which <hi>Francis</hi> went to <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> in the yeere 1643. By reaſon whereof the then Commit<g ref="char:EOLhyphen"/>tee of the publique Revenue ſequeſtred the ſaid Agency, and all rents and profits, &amp;c. and put in other Agents of their own nomination, who keep their Office in <hi>Fleetſtreet,</hi> and have en<g ref="char:EOLhyphen"/>joyed the profits thereof ever ſince. And under pretence o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>Francis Dickins</hi>'s Delinquency.</p>
+                     <p>And your Petitioners thereupon have ſeveral times petitio<g ref="char:EOLunhyphen"/>ned and appeared before that Honourable Committee for a re<g ref="char:EOLunhyphen"/>leaſe of the ſaid Sequeſtration, but could never obtein a fina<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> hearing thereupon.</p>
+                     <p>That when the preſent Agents entred upon the ſaid Agency<g ref="char:punc">▪</g> there was due to the ſaid Copartners for Arreares and Fines 14000 <hi>li.</hi> or thereabouts, and in annuall Rents for Licenſes a<g ref="char:EOLhyphen"/>bout 3000 <hi>li. per annum,</hi> beſides the profits and benefit of ma<g ref="char:EOLhyphen"/>king and renewing Licenſes, and all Arreares and Profits, ex<g ref="char:EOLhyphen"/>cept 566 <hi>li</hi> 13 <hi>ſhil.</hi> 4 <hi>d. per annum,</hi> due to the late King, all which was of right to have come to the hands of the ſaid Co<g ref="char:EOLhyphen"/>partners, they having really disburſed for the ſame, by the hands of your Petitioners 20400 <hi>li.</hi> a very great part where<g ref="char:EOLhyphen"/>of was taken up at intereſt (as by a particular of the bonds hereto annexed will appear) by your Petitioners, and ſome o<g ref="char:EOLhyphen"/>thers, by the order and appointment of the ſaid Copartners (as aforeſaid.) And your Petitioners have a long time under<g ref="char:EOLhyphen"/>gone the hard bonds, great charge and diſgrace of impriſon<g ref="char:EOLhyphen"/>ment for the ſame, and are ſtill like to continue there (without redreſs) to their utter ruine.</p>
+                     <p>Now for as much as your Petitioners have had many tedious and vexatious ſuits, yet undetermined, with the ſaid Copartners and others involved in this buſineſs, whereby vaſt ſummes have been fruitleſly expended in ſuits at law and equity, and your Petitioners eſtates waſted, and they become altogether unable to ſupport ſuch exorbitant charges, with ſo many and ſo pow<g ref="char:EOLhyphen"/>erful adverſaries.</p>
+                     <pb facs="tcp:175235:26"/>
+                     <p>Your Petitioners therefore (for their more ſpeedy relief here<g ref="char:EOLhyphen"/>in) humbly pray that your Honours will be pleaſed to commiſerate their diſtreſſed eſtate, and to call before your Honours the ſaid Copartners, the ſaid now preſent A<g ref="char:EOLhyphen"/>gents, the ſaid Lord <hi>Goring</hi> and his Truſtees, and the ſaid <hi>Francis Dickins,</hi> and to command to be brought before all Deeds, Writings, Books of Accompt, and to examine all ſuch parties and witneſſes upon oath, as may tend to the ſetting forth of right and truth, and the diſcovery of deceit and fraud, and to reſtore to each party accord<g ref="char:EOLhyphen"/>ing to juſtice and equity.</p>
+                     <closer>And your Petitioners ſhall ever pray, &amp;c.</closer>
+                  </body>
+               </floatingText>
+               <pb facs="tcp:175235:26"/>
+               <floatingText xml:lang="eng" type="note_of_subscription">
+                  <body>
+                     <p>This preſents witneſſeth, That we the Adventurers in the Farms of 40 <hi>ſhil. per Tonne</hi> and Wine-Li<g ref="char:EOLhyphen"/>cenſes, do give order unto the Worſhipfull <hi>William Abell</hi> Alderman of the City of <hi>London, Richard Kil<g ref="char:EOLhyphen"/>vert</hi> Eſquire, Maſter <hi>Robert Shawe,</hi> Maſter <hi>Edward Darlinge,</hi> Maſter <hi>Ralph Moore,</hi> and Maſter <hi>George Griffith,</hi> to make an abſolute end with the Right Ho<g ref="char:EOLhyphen"/>nourable <hi>George</hi> Lord <hi>Goring,</hi> concerning his three thouſand pounds <hi>per annum</hi> out of the Wine-Licen<g ref="char:EOLhyphen"/>ſes, and what they conclude we will allow, and for what moneys ſhall be taken up at Intereſt by any to<g ref="char:EOLhyphen"/>wards payment of that buſineſſe, we will ſave them harmleſſe for our proportions adventured. In witneſs whereof we have hereunto put our hands the 15th. <hi>November,</hi> 1639.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Edward Kynaſtone</hi>
+                              </item>
+                              <item>
+                                 <hi>Richard Kilvert</hi>
+                              </item>
+                              <item>
+                                 <hi>Matthew Forſter</hi>
+                              </item>
+                              <item>
+                                 <hi>Jacob Bonamye</hi>
+                              </item>
+                              <item>
+                                 <hi>Robert Lee</hi>
+                              </item>
+                              <item>
+                                 <hi>Andrew Courtman</hi>
+                              </item>
+                              <item>
+                                 <hi>Fran. Aſhwell</hi>
+                              </item>
+                              <item>
+                                 <hi>John Gregory</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Symcottes</hi>
+                              </item>
+                              <item>
+                                 <hi>John Wilcocks</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Darlinge</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Goughe</hi>
+                              </item>
+                              <item>
+                                 <hi>Ralph Hutchinſon</hi>
+                              </item>
+                              <item>
+                                 <hi>William Abell</hi>
+                              </item>
+                              <item>
+                                 <hi>Rowland Wilſon</hi>
+                              </item>
+                              <item>
+                                 <hi>William Conradus</hi>
+                              </item>
+                              <item>
+                                 <hi>Henry Sanders</hi>
+                              </item>
+                              <item>
+                                 <hi>Ralph King</hi>
+                              </item>
+                              <item>
+                                 <hi>Henry Croone</hi>
+                              </item>
+                              <item>
+                                 <hi>George Stanley</hi>
+                              </item>
+                              <pb facs="tcp:175235:27"/>
+                              <item>
+                                 <hi>Chr. Metcalfe</hi>
+                              </item>
+                              <item>
+                                 <hi>Edward Terry</hi>
+                              </item>
+                              <item>
+                                 <hi>Ioſeph Rogers</hi>
+                              </item>
+                              <item>
+                                 <hi>William Kempſter</hi>
+                              </item>
+                              <item>
+                                 <hi>William Dickins</hi>
+                              </item>
+                              <item>
+                                 <hi>William Jhanns</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Dudley</hi>
+                              </item>
+                              <item>
+                                 <hi>Cornelius Cooke</hi>
+                              </item>
+                              <item>
+                                 <hi>Mark Hildeſley</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Cox.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="list_of_bonds">
+                  <body>
+                     <p>
+                        <table>
+                           <row>
+                              <cell>
+                                 <hi>Will. Abell</hi>
+                              </cell>
+                              <cell>Bound to <hi>George Gaell</hi> Gent. in a Bond of 1200 <hi>li.</hi> to pay 676, the Bond is dated the 27 of May 1640 payable the 27 of November fol<g ref="char:EOLhyphen"/>lowing.</cell>
+                              <cell>676</cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <list>
+                                    <item>
+                                       <hi>Will. Abell</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Rob. Shaw</hi>
+                                    </item>
+                                    <item>
+                                       <hi>E. Darling</hi>
+                                    </item>
+                                 </list>
+                              </cell>
+                              <cell>Bound to <hi>Edmond Hamond</hi> in a Bond of 1500 <hi>li.</hi> to pay 1037 <hi>li.</hi> 10 <hi>ſh.</hi> the Bond is dated the 18 of November 1639, due the 20 of May 1640.</cell>
+                              <cell>1037-10</cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <list>
+                                    <item>
+                                       <hi>Will. Abel</hi>
+                                    </item>
+                                    <item>
+                                       <hi>E. Darling</hi>
+                                    </item>
+                                    <item>
+                                       <hi>W. Dickins</hi>
+                                    </item>
+                                 </list>
+                              </cell>
+                              <cell>Bound to Sir <hi>Jarvis Elwes</hi> in a Bond of 800 <hi>li.</hi> to pay 520, the Bond is dated the 16 of May 1639 payable the 18 of November fol<g ref="char:EOLhyphen"/>lowing.</cell>
+                              <cell>520</cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <list>
+                                    <item>
+                                       <hi>Will. Abell</hi>
+                                    </item>
+                                    <item>
+                                       <hi>W. Leechland</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Rob. Shaw</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Ral. Moore.</hi>
+                                    </item>
+                                 </list>
+                              </cell>
+                              <cell>Bound to <hi>Peter Bulteel</hi> Merchant in a Bond of 1000 <hi>li.</hi> to pay 624, the Bond is dated the 16 of June 1640, payable the 24 of Decem<g ref="char:EOLhyphen"/>ber following.</cell>
+                              <cell>624</cell>
+                           </row>
+                           <pb facs="tcp:175235:27"/>
+                           <row>
+                              <cell>
+                                 <list>
+                                    <item>
+                                       <hi>Will. Abell</hi>
+                                    </item>
+                                    <item>
+                                       <hi>W. Leechland</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Rob. Shawe</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Ral. Moore</hi>
+                                    </item>
+                                 </list>
+                              </cell>
+                              <cell>Bound to <hi>Richard Woodward</hi> Eſq. in a Bond of 1000 <hi>li.</hi> to pay 622 <hi>li.</hi> 10 <hi>ſh.</hi> The Bond is dated the 15 of June 1640, payable the 17 of December following.</cell>
+                              <cell>622-10</cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <list>
+                                    <item>
+                                       <hi>Will. Abell</hi>
+                                    </item>
+                                    <item>
+                                       <hi>W. Leechland</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Rob. Shaw</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Ral. Moor</hi>
+                                    </item>
+                                 </list>
+                              </cell>
+                              <cell>Bound to Dame <hi>Anne Moulſon</hi> in a Bond of 2200 <hi>li.</hi> to pay 1556 <hi>li.</hi> 5 <hi>ſh.</hi> The Bond is dated the 15 of June 1640, payable the 17 of De<g ref="char:EOLhyphen"/>cember following.</cell>
+                              <cell>1556-5</cell>
+                           </row>
+                           <row>
+                              <cell cols="3">
+                                 <hi>William Abell</hi> is damnified by the Co-partnerſhip over and above theſe Bonds,</cell>
+                           </row>
+                           <pb facs="tcp:175235:28"/>
+                           <row>
+                              <cell cols="3">
+                                 <hi>Robert Shaw</hi> is damnified by the Co-partnerſhip, over and obove theſe Bonds,</cell>
+                           </row>
+                           <row>
+                              <cell cols="3">
+                                 <hi>Ralph Moore</hi> obſcures himſelf, ſo as he cannot be ta<g ref="char:EOLhyphen"/>ken by Arreſt.</cell>
+                           </row>
+                           <row>
+                              <cell cols="3">
+                                 <hi>Edward Darlingr, William Leechland,</hi> and <hi>William Dickins,</hi> are all three deceaſed, and plead no Aſſettes, yet were all three ſuppoſed to have left great eſtates behinde them.</cell>
+                           </row>
+                        </table>
+                     </p>
+                  </body>
+               </floatingText>
+               <pb facs="tcp:175235:28"/>
+               <floatingText xml:lang="eng" type="list_of_investors">
+                  <body>
+                     <head>A Perticular of the Names of the Co<g ref="char:EOLhyphen"/>adventurers, with their perticular Adventures, as they are ſet down un<g ref="char:EOLhyphen"/>der the hand of Mr. <hi>Geor. Griffith</hi> one of the Farmers or Cortractors, and now Maſter of the Company of Vintners.</head>
+                     <p>
+                        <table>
+                           <row>
+                              <cell>Alderman <hi>Abel</hi>
+                              </cell>
+                              <cell>1000 li.</cell>
+                           </row>
+                           <row>
+                              <cell>Mr. <hi>Davis.</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>Mr. <hi>Darling.</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>Mr. <hi>Leechland.</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>Mr. <hi>Ralph Moore.</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>Mr. <hi>Griffith.</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>Mr. <hi>Courtman</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>Captain <hi>Forſter.</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>Mr. <hi>Hamond.</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>Mr. <hi>Rowland Wilſon.</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>Mr. <hi>Bowyer</hi>
+                              </cell>
+                              <cell>500</cell>
+                           </row>
+                           <row>
+                              <cell>Mr. <hi>T Hutchinſon.</hi>
+                              </cell>
+                              <cell>500</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Rich Kilvert.</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Robert Shaw.</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Matthew Terry</hi>
+                              </cell>
+                              <cell>250</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Edward Terry</hi>
+                              </cell>
+                              <cell>250</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Ed. Kinaſton</hi>
+                              </cell>
+                              <cell>500</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Kimpſter.</hi>
+                              </cell>
+                              <cell>500</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Bonamy.</hi> 500</cell>
+                              <cell rows="2">1000</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Hancock,</hi> 500</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>King.</hi>
+                              </cell>
+                              <cell>500</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Conradus.</hi>
+                              </cell>
+                              <cell>500</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Aſhwel</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Hilleſley.</hi> 750</cell>
+                              <cell rows="5">2000</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Tho. Cox</hi> 500</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Corn. Cook</hi> 250</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>He. Lee Vi.</hi> 250</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>R. Meers</hi> 250</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Gregory,</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Simcots.</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Dudley.</hi>
+                              </cell>
+                              <cell>0500</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Wilcoxe.</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>R. Hutchinſon,</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Rogers.</hi>
+                              </cell>
+                              <cell>0500</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Crone.</hi>
+                              </cell>
+                              <cell>0500</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Robert Lee</hi>
+                              </cell>
+                              <cell>0500</cell>
+                           </row>
+                           <row>
+                              <cell>Capt. <hi>Sanders.</hi>
+                              </cell>
+                              <cell>0500</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Meacalf,</hi>
+                              </cell>
+                              <cell>0500</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Gough.</hi>
+                              </cell>
+                              <cell>0500</cell>
+                           </row>
+                           <row>
+                              <cell>Ca <hi>Geor Langham.</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Dickens.</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>G. Stanley</hi> 500</cell>
+                              <cell rows="2">1000</cell>
+                           </row>
+                           <row>
+                              <cell>mr <hi>Ihanns</hi> 500</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Roger Kilvert</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Thomas Darling</hi>
+                              </cell>
+                              <cell>0500</cell>
+                           </row>
+                           <row>
+                              <cell>mr <hi>H. Lee</hi> merchant</cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>mr. <hi>Hulbert.</hi>
+                              </cell>
+                              <cell>1000</cell>
+                           </row>
+                        </table>
+                     </p>
+                  </body>
+               </floatingText>
+            </div>
+            <pb facs="tcp:175235:29"/>
+            <pb facs="tcp:175235:29"/>
+            <pb facs="tcp:175235:30"/>
+            <pb facs="tcp:175235:30"/>
+            <pb facs="tcp:175235:31"/>
+            <pb facs="tcp:175235:31"/>
+         </div>
+      </body>
+   </text>
+</TEI>
